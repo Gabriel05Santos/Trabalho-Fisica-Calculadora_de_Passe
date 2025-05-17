@@ -8,8 +8,8 @@
 
 :wrench: Funcionalidades da Calculadora:
 
-:white_check_mark:Interface gráfica(swing)
+  :white_check_mark:Interface gráfica(swing)
 
-:white_check_mark:Calculo do passe
+  :white_check_mark:Calculo do passe
 
-:white_check_mark:Erros são mostrados e tratados com mensagens
+  :white_check_mark:Erros são mostrados e tratados com mensagens
