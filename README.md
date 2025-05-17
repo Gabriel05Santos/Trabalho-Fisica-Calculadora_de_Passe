@@ -7,7 +7,6 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
 
 ![Imagem da Calculadora](calculadora.png)
 
-#
 
 <h2><strong>:wrench: Funcionalidades da Calculadora:</strong></h2>
 <ul>
