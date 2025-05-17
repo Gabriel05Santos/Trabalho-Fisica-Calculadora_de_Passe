@@ -13,6 +13,7 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
   <li><strong>:white_check_mark:Interface gráfica(swing)</strong></li>
   <li><strong></strong>:white_check_mark:Calculo do passe</strong></li>
   <li><strong>:white_check_mark:Erros são mostrados e tratados com mensagens</strong></li>
+  <li><strong>:white_check_mark:Visualização gráfica do ângulo do passe</strong></li>
   </ul>
   
 #
