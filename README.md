@@ -27,5 +27,7 @@ componentex positiva. Suponha que o jogador esteja correndo com
 uma velocidade de 4,0 m/s em relação ao campo quando passa a
 bola com uma velocidade vBJ em relação a ele mesmo. Se o módulo
 de vBJ é 6,0 m/s, qual é o menor ânulo que a bola deve fazer com
-a direção x para que o passe seja válido? <br>
+a direção x para que o passe seja válido? 
+<br>
+<br>
 (Halliday, Robert Resnick, Jearl Walker - Fundamentos de Física Vol. 1_ Mecânica)
