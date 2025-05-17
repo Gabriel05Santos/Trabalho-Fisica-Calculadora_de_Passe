@@ -15,4 +15,6 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
   <li><strong></strong>:white_check_mark:Calculo do passe</strong></li>
   <li><strong>:white_check_mark:Erros são mostrados e tratados com mensagens</strong></li>
   </ul>
-<h2><strong>:memo: Eexercício utilizado para o programa:</strong></h2>
+  #
+<h2><strong>:memo: Exercício utilizado para criar o programa:</strong></h2>
+Um jogador de rúgbi corre com a bola em direção à meta do adversário, no sentido positivo de um eixo x. De acordo com as regras do jogo, pode passar a bola a um companheiro de equipe desde que a velocidade da bola em relação ao campo não possua uma componente x positiva. Suponha que o jogador esteja correndo com uma velocidade de 4,0 m/s em relação ao campo quando passa a bola com uma velocidade v_b em relação a ele mesmo. Se o módulo de v_b é 6,0 m/s, qual é o menor ângulo que a bola deve fazer com a direção x para que o passe seja válido?
