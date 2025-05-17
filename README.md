@@ -1,6 +1,6 @@
 <h1><strong>:rugby_football: Calculadora de Passe de Rugby</strong></h1>
 
-Programa de calculadora de passe de rugby feito em java para o trabalho de física. O programa calcula e mostra o menor ângulo que a bola deve fazer para que o passe seja válido, de acordo com o exercício original.
+Programa de calculadora de passe de rugby feito em java para o trabalho de física. O programa calcula e mostra o menor ângulo que a bola deve fazer para que o passe seja válido de acordo com as regras oficiais do jogo.
 #
 
 <h2>:camera: Imagem da Calculadora:</h2>
@@ -15,3 +15,4 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
   <li><strong></strong>:white_check_mark:Calculo do passe</strong></li>
   <li><strong>:white_check_mark:Erros são mostrados e tratados com mensagens</strong></li>
   </ul>
+<h2><strong>:memo: Eexercício utilizado para o programa:</strong></h2>
