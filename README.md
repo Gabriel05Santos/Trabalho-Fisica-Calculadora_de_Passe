@@ -13,8 +13,6 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de fisic
 <h2><strong>:wrench: Funcionalidades da Calculadora:</strong></h2>
 <ul>
   <li><strong>:white_check_mark:Interface gráfica(swing)</strong></li>
-
   <li><strong></strong>:white_check_mark:Calculo do passe</strong></li>
-
   <li><strong>:white_check_mark:Erros são mostrados e tratados com mensagens</strong></li>
   </ul>
