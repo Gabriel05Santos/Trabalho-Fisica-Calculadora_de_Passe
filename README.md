@@ -27,4 +27,5 @@ bola com uma velocidade vBJ em relação a ele mesmo. Se o módulo
 de vBJ é 6,0 m/s, qual é o menor ânulo que a bola deve fazer com
 a direção x para que o passe seja válido?
 
+
 (Halliday, Robert Resnick, Jearl Walker - Fundamentos de Física Vol. 1_ Mecânica)
