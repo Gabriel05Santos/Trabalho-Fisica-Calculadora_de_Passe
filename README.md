@@ -17,9 +17,13 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
   </ul>
 
 
-  <h2><strong>📐 Formulas utilizadas:</strong></h2>
+  <h2><strong>📐 Fórmulas utilizadas:</strong></h2>
 
+![Image](https://github.com/user-attachments/assets/3c542142-baec-4652-b8fa-5406931fe964)
 
+![Image](https://github.com/user-attachments/assets/3a74030c-c387-4f2d-92d4-d4b9e440edea)
+
+![Image](https://github.com/user-attachments/assets/f184dc85-c782-416b-bc2a-c3609342ad30)
   
 #
 
