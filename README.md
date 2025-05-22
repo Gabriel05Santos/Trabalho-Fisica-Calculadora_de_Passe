@@ -7,6 +7,7 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
 
 ![Imagem da Calculadora](calculadora.png)
 
+#
 
 <h2><strong>:wrench: Funcionalidades da Calculadora:</strong></h2>
 <ul>
@@ -16,6 +17,7 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
   <li><strong></strong>:white_check_mark:Cálculo do passe</strong></li>
   </ul>
 
+#
 
   <h2><strong>📐 Fórmulas utilizadas:</strong></h2>
 
@@ -30,6 +32,7 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
 ![Image](https://github.com/user-attachments/assets/f184dc85-c782-416b-bc2a-c3609342ad30)
 
 #
+
  <h2><strong>💻​ Como executar o programa:</strong></h2>
  Instalar a pasta "Trabalho_Fisica" e abrir a pasta preferencialmente na IDE NetBeans
  
@@ -49,3 +52,5 @@ a direção x para que o passe seja válido?
 <br>
 <br>
 (Halliday, Robert Resnick, Jearl Walker - Fundamentos de Física Vol. 1_ Mecânica)
+
+#
