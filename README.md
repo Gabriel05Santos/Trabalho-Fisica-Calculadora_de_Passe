@@ -29,13 +29,11 @@ Programa de calculadora de passe de rugby feito em java para o trabalho de físi
 
 ![Image](https://github.com/user-attachments/assets/f184dc85-c782-416b-bc2a-c3609342ad30)
 
-
-  
-
-
+#
  <h2><strong>💻​ Como executar o programa:</strong></h2>
  Instalar a pasta "Trabalho_Fisica" e abrir a pasta preferencialmente na IDE NetBeans
  
+ #
 
 
 <h2><strong>:memo: Exercício utilizado para criar o programa:</strong></h2>
